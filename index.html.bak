@@ -31,7 +31,7 @@
             <div id="menu">
                 <ul class="navigation">
                     <li><a href="#home" class="selected menu_01">Home</a></li>
-                    <li><a href="#aboutus" class="menu_02">Courses</a></li>
+                    <li><a href="#aboutus" class="menu_02">Cources</a></li>
                     <li><a href="#services" class="menu_03">Faculties</a></li>
                     <li><a href="#gallery" class="menu_04">Inquiry</a></li>
                     <li><a href="#contactus" class="menu_05">Contact Us</a></li>
